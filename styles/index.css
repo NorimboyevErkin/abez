@@ -5,29 +5,29 @@
 @tailwind utilities;
 
 @layer base {
-  body {
-    font-family: "Inter", sans-serif;
-  }
+	body {
+		font-family: "Inter", sans-serif;
+	}
 }
 
 @layer components {
-  input[type="checkbox"]:checked ~ label span svg {
-    @apply inline-flex;
-  }
+	input[type="checkbox"]:checked ~ label span svg {
+		@apply inline-flex;
+	}
 
-  .sticky .header-logo {
-    @apply py-5 lg:py-2;
-  }
+	.sticky .header-logo {
+		@apply py-5 lg:py-2;
+	}
 
-  .sticky .menu-scroll.active {
-    @apply opacity-70;
-  }
+	.sticky .menu-scroll.active {
+		@apply opacity-70;
+	}
 
-  input#togglePlan:checked ~ .dot {
-    @apply translate-x-full;
-  }
+	input#togglePlan:checked ~ .dot {
+		@apply translate-x-full;
+	}
 
-  input#checkboxLabel:checked ~ .box span {
-    @apply opacity-100;
-  }
+	input#checkboxLabel:checked ~ .box span {
+		@apply opacity-100;
+	}
 }
