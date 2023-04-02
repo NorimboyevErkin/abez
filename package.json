@@ -7,12 +7,12 @@
 		"build": "next build",
 		"start": "next start",
 		"lint": "eslint .",
-		"format": "prettier --write '**/*.jsx'",
-		"precommit": "npm run lint && npm run format"
+		"format": "prettier --write .",
+		"precommit": "yarn run lint && yarn run format"
 	},
 	"husky": {
 		"hooks": {
-			"pre-commit": "npm run precommit"
+			"pre-commit": "yarn run precommit"
 		}
 	},
 	"dependencies": {
