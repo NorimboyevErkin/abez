@@ -8,8 +8,8 @@ const RelatedPost = ({ image, slug, title, date }) => {
 				<div className="relative h-[60px] w-[70px] overflow-hidden rounded-md sm:h-[75px] sm:w-[85px]">
 				<Image src={image} alt={title} fill />
 				</div>
-			</div>
-			<div className="w-full">
+			  </div>
+			  <div className="w-full">
 				<h5>
 					<Link
 						href={slug}
