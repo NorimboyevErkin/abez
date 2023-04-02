@@ -1,0 +1,24 @@
+{
+	"printWidth": 140,
+	"tabWidth": 4,
+	"useTabs": true,
+	"semi": true,
+	"singleQuote": false,
+	"trailingComma": "none",
+	"bracketSpacing": true,
+	"jsxBracketSameLine": true,
+	"fluid": true,
+	"importOrder": [
+		"^react",
+		"assets/(.*)$",
+		"types/(.*)$",
+		"utils/(.*)$",
+		"constants/(.*)$",
+		"services/(.*)$",
+		"hooks/(.*)$",
+		"containers/(.*)$",
+		"components/(.*)$",
+		"^[./]"
+	],
+	"importOrderSeparation": true
+}
