@@ -6,9 +6,9 @@
 		"dev": "next dev",
 		"build": "next build",
 		"start": "next start",
-		"lint": "prettier --check .",
-		"format": "prettier --write \"**/*.{ts,tsx,js,jsx,md}\"",
-		"precommit": "npm run format"
+		"lint": "eslint .",
+		"format": "prettier --write '**/*.jsx'",
+		"precommit": "npm run lint && npm run format"
 	},
 	"husky": {
 		"hooks": {
