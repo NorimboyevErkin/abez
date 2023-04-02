@@ -11,8 +11,8 @@ const RelatedPost = ({ image, slug, title, date }) => {
 			  </div>
 			  <div className="w-full">
 				<h5>
-					<Link
-						href={slug}
+				<Link
+				href={slug}
 						className="mb-[6px] block text-base font-medium leading-snug text-black hover:text-primary dark:text-white dark:hover:text-primary"
 					>
 						{title}
