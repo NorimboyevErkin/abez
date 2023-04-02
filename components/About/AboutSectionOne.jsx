@@ -1,5 +1,5 @@
-import Image from "next/image";
-import SectionTitle from "../Common/SectionTitle";
+import Image from 'next/image';
+import SectionTitle from '../Common/SectionTitle';
 
 const checkIcon = (
 	<svg width="16" height="13" viewBox="0 0 16 13" className="fill-current">

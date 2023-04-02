@@ -1,4 +1,4 @@
-import Link from "next/link";
+import Link from 'next/link';
 
 const ErrorPage = () => {
 	return (
@@ -31,7 +31,7 @@ const ErrorPage = () => {
 										<circle opacity="0.8" cx="227.5" cy="81.5" r="68.5" fill="#4A6CF7" />
 										<mask
 											id="mask0_116:1137"
-											style={{ maskType: "alpha" }}
+											style={{ maskType: 'alpha' }}
 											maskUnits="userSpaceOnUse"
 											x="159"
 											y="13"

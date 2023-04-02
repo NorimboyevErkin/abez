@@ -1,35 +1,35 @@
-import Image from "next/image";
+import Image from 'next/image';
 
 const brandsData = [
 	{
 		id: 1,
-		name: "UIdeck",
-		href: "https://uideck.com",
-		image: "/images/brands/uideck.svg"
+		name: 'UIdeck',
+		href: 'https://uideck.com',
+		image: '/images/brands/uideck.svg'
 	},
 	{
 		id: 2,
-		name: "Tailgrids",
-		href: "https://tailgrids.com",
-		image: "/images/brands/tailgrids.svg"
+		name: 'Tailgrids',
+		href: 'https://tailgrids.com',
+		image: '/images/brands/tailgrids.svg'
 	},
 	{
 		id: 3,
-		name: "Lineicons",
-		href: "https://lineicons.com",
-		image: "/images/brands/lineicons.svg"
+		name: 'Lineicons',
+		href: 'https://lineicons.com',
+		image: '/images/brands/lineicons.svg'
 	},
 	{
 		id: 4,
-		name: "GrayGrids",
-		href: "https://graygrids.com",
-		image: "/images/brands/graygrids.svg"
+		name: 'GrayGrids',
+		href: 'https://graygrids.com',
+		image: '/images/brands/graygrids.svg'
 	},
 	{
 		id: 5,
-		name: "TailAdmin",
-		href: "https://tailadmin.com",
-		image: "/images/brands/tailadmin.svg"
+		name: 'TailAdmin',
+		href: 'https://tailadmin.com',
+		image: '/images/brands/tailadmin.svg'
 	}
 ];
 

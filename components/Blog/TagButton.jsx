@@ -1,4 +1,4 @@
-const TagButton = ({ href = "#0", text }) => {
+const TagButton = ({ href = '#0', text }) => {
 	return (
 		<a
 			href={href}

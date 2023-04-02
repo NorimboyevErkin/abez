@@ -1,5 +1,5 @@
-import Image from "next/image";
-import Link from "next/link";
+import Image from 'next/image';
+import Link from 'next/link';
 
 const Footer = () => {
 	return (
@@ -53,20 +53,20 @@ const Footer = () => {
 								<ul>
 									<li>
 										<a href="/" className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary">
-											{" "}
-											Blog{" "}
+											{' '}
+											Blog{' '}
 										</a>
 									</li>
 									<li>
 										<a href="/" className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary">
-											{" "}
-											Pricing{" "}
+											{' '}
+											Pricing{' '}
 										</a>
 									</li>
 									<li>
 										<a href="/" className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary">
-											{" "}
-											About{" "}
+											{' '}
+											About{' '}
 										</a>
 									</li>
 								</ul>
@@ -79,20 +79,20 @@ const Footer = () => {
 								<ul>
 									<li>
 										<a href="/" className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary">
-											{" "}
-											TOS{" "}
+											{' '}
+											TOS{' '}
 										</a>
 									</li>
 									<li>
 										<a href="/" className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary">
-											{" "}
-											Privacy Policy{" "}
+											{' '}
+											Privacy Policy{' '}
 										</a>
 									</li>
 									<li>
 										<a href="/" className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary">
-											{" "}
-											Refund Policy{" "}
+											{' '}
+											Refund Policy{' '}
 										</a>
 									</li>
 								</ul>
@@ -105,20 +105,20 @@ const Footer = () => {
 								<ul>
 									<li>
 										<a href="/" className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary">
-											{" "}
-											Open Support Ticket{" "}
+											{' '}
+											Open Support Ticket{' '}
 										</a>
 									</li>
 									<li>
 										<a href="/" className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary">
-											{" "}
-											Terms of Use{" "}
+											{' '}
+											Terms of Use{' '}
 										</a>
 									</li>
 									<li>
 										<a href="/" className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary">
-											{" "}
-											About{" "}
+											{' '}
+											About{' '}
 										</a>
 									</li>
 								</ul>
@@ -129,7 +129,7 @@ const Footer = () => {
 				<div className="bg-primary/10 py-8">
 					<div className="container">
 						<p className="text-center text-base text-body-color dark:text-white">
-							Template by UIdeck and{" "}
+							Template by UIdeck and{' '}
 							<a href="https://nextjstemplates.com" rel="nofollow noopener">
 								Next.js Templates
 							</a>
@@ -139,7 +139,7 @@ const Footer = () => {
 				<div className="absolute right-0 top-14 z-[-1]">
 					<svg width="55" height="99" viewBox="0 0 55 99" fill="none" xmlns="http://www.w3.org/2000/svg">
 						<circle opacity="0.8" cx="49.5" cy="49.5" r="49.5" fill="#959CB1" />
-						<mask id="mask0_94:899" style={{ maskType: "alpha" }} maskUnits="userSpaceOnUse" x="0" y="0" width="99" height="99">
+						<mask id="mask0_94:899" style={{ maskType: 'alpha' }} maskUnits="userSpaceOnUse" x="0" y="0" width="99" height="99">
 							<circle opacity="0.8" cx="49.5" cy="49.5" r="49.5" fill="#4A6CF7" />
 						</mask>
 						<g mask="url(#mask0_94:899)">

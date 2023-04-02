@@ -1,8 +1,8 @@
-import RelatedPost from "@/components/Blog/RelatedPost";
-import SharePost from "@/components/Blog/SharePost";
-import TagButton from "@/components/Blog/TagButton";
-import NewsLatterBox from "@/components/Contact/NewsLatterBox";
-import Image from "next/image";
+import RelatedPost from '@/components/Blog/RelatedPost';
+import SharePost from '@/components/Blog/SharePost';
+import TagButton from '@/components/Blog/TagButton';
+import NewsLatterBox from '@/components/Contact/NewsLatterBox';
+import Image from 'next/image';
 
 const BlogSidebarPage = () => {
 	return (
@@ -181,7 +181,7 @@ const BlogSidebarPage = () => {
 												<circle opacity="0.8" cx="37.5" cy="37.5" r="37.5" fill="#4A6CF7" />
 												<mask
 													id="mask0_111:596"
-													style={{ maskType: "alpha" }}
+													style={{ maskType: 'alpha' }}
 													maskUnits="userSpaceOnUse"
 													x="0"
 													y="0"

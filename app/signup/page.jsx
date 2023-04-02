@@ -1,4 +1,4 @@
-import Link from "next/link";
+import Link from 'next/link';
 
 const SignupPage = () => {
 	return (
@@ -52,8 +52,8 @@ const SignupPage = () => {
 								<form>
 									<div className="mb-8">
 										<label for="name" className="mb-3 block text-sm font-medium text-dark dark:text-white">
-											{" "}
-											Full Name{" "}
+											{' '}
+											Full Name{' '}
 										</label>
 										<input
 											type="text"
@@ -64,8 +64,8 @@ const SignupPage = () => {
 									</div>
 									<div className="mb-8">
 										<label for="email" className="mb-3 block text-sm font-medium text-dark dark:text-white">
-											{" "}
-											Work Email{" "}
+											{' '}
+											Work Email{' '}
 										</label>
 										<input
 											type="email"
@@ -76,8 +76,8 @@ const SignupPage = () => {
 									</div>
 									<div className="mb-8">
 										<label for="password" className="mb-3 block text-sm font-medium text-dark dark:text-white">
-											{" "}
-											Your Password{" "}
+											{' '}
+											Your Password{' '}
 										</label>
 										<input
 											type="password"
@@ -115,13 +115,13 @@ const SignupPage = () => {
 											<span>
 												By creating account means you agree to the
 												<a href="#0" className="text-primary hover:underline">
-													{" "}
-													Terms and Conditions{" "}
+													{' '}
+													Terms and Conditions{' '}
 												</a>
 												, and our
 												<a href="#0" className="text-primary hover:underline">
-													{" "}
-													Privacy Policy{" "}
+													{' '}
+													Privacy Policy{' '}
 												</a>
 											</span>
 										</label>
@@ -146,7 +146,7 @@ const SignupPage = () => {
 					<svg width="1440" height="969" viewBox="0 0 1440 969" fill="none" xmlns="http://www.w3.org/2000/svg">
 						<mask
 							id="mask0_95:1005"
-							style={{ maskType: "alpha" }}
+							style={{ maskType: 'alpha' }}
 							maskUnits="userSpaceOnUse"
 							x="0"
 							y="0"

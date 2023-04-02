@@ -32,7 +32,7 @@ const NewsLatterBox = () => {
 			</form>
 			<div className="absolute top-0 left-0 z-[-1]">
 				<svg width="370" height="596" viewBox="0 0 370 596" fill="none" xmlns="http://www.w3.org/2000/svg">
-					<mask id="mask0_88:141" style={{ maskType: "alpha" }} maskUnits="userSpaceOnUse" x="0" y="0" width="370" height="596">
+					<mask id="mask0_88:141" style={{ maskType: 'alpha' }} maskUnits="userSpaceOnUse" x="0" y="0" width="370" height="596">
 						<rect width="370" height="596" rx="2" fill="#1D2144" />
 					</mask>
 					<g mask="url(#mask0_88:141)">

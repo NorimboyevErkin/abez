@@ -1,5 +1,5 @@
-import Image from "next/image";
-import Link from "next/link";
+import Image from 'next/image';
+import Link from 'next/link';
 
 const SingleBlog = ({ blog }) => {
 	const { title, image, paragraph, author, tags, publishDate } = blog;

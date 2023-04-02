@@ -1,4 +1,4 @@
-import Link from "next/link";
+import Link from 'next/link';
 
 const SigninPage = () => {
 	return (
@@ -130,7 +130,7 @@ const SigninPage = () => {
 					<svg width="1440" height="969" viewBox="0 0 1440 969" fill="none" xmlns="http://www.w3.org/2000/svg">
 						<mask
 							id="mask0_95:1005"
-							style={{ maskType: "alpha" }}
+							style={{ maskType: 'alpha' }}
 							maskUnits="userSpaceOnUse"
 							x="0"
 							y="0"
