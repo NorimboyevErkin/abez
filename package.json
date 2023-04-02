@@ -7,7 +7,7 @@
 		"build": "next build",
 		"start": "next start",
 		"lint": "prettier --check .",
-		"format": "prettier --write \"**/*.{ts,tsx,md}\"",
+		"format": "prettier --write \"**/*.{ts,tsx,js,jsx,md}\"",
 		"precommit": "npm run format"
 	},
 	"husky": {
